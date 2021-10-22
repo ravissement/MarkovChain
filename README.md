@@ -10,3 +10,8 @@ Example of weather prediction model using Markov chain
 <br><br>
 ## HMM & MarKov Chain Detail(personal blog)
 <a href="https://ravissement.tistory.com/247" target="_blank">Ravissement</a> (More Detail information)
+
+<br><br>
+## References 
+https://wikidocs.net/130821 (Harvard University AI with Python 
+lecture notes)

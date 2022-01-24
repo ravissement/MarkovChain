@@ -1,5 +1,5 @@
 # Markov Chain
-Created By Ravissement 2021-10-22. 
+Created By Ravissement on 2021-10-22. 
 <Br>
 This is example of weather prediction model using Markov chain
 ### " it is a process for which predictions can be made regarding future outcomes based solely on its present state and—most importantly—such predictions are just as good as the ones that could be made knowing the process's full history. " 
